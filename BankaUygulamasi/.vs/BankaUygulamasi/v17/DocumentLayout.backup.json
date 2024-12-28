@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fcebe\\Desktop\\Bitirme\\BankaUygulamasi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A80DC1-A403-43F2-80E7-4C3705E32AE7}|BankaUygulamasi\\BankaUygulamasi.csproj|c:\\users\\fcebe\\desktop\\bitirme\\bankauygulamasi\\bankauygulamasi\\yoneticipaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E4A80DC1-A403-43F2-80E7-4C3705E32AE7}|BankaUygulamasi\\BankaUygulamasi.csproj|solutionrelative:bankauygulamasi\\yoneticipaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A80DC1-A403-43F2-80E7-4C3705E32AE7}|BankaUygulamasi\\BankaUygulamasi.csproj|c:\\users\\fcebe\\desktop\\bitirme\\bankauygulamasi\\bankauygulamasi\\yoneticipaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A80DC1-A403-43F2-80E7-4C3705E32AE7}|BankaUygulamasi\\BankaUygulamasi.csproj|solutionrelative:bankauygulamasi\\yoneticipaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A80DC1-A403-43F2-80E7-4C3705E32AE7}|BankaUygulamasi\\BankaUygulamasi.csproj|c:\\users\\fcebe\\desktop\\bitirme\\bankauygulamasi\\bankauygulamasi\\personelpaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A80DC1-A403-43F2-80E7-4C3705E32AE7}|BankaUygulamasi\\BankaUygulamasi.csproj|solutionrelative:bankauygulamasi\\personelpaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A80DC1-A403-43F2-80E7-4C3705E32AE7}|BankaUygulamasi\\BankaUygulamasi.csproj|c:\\users\\fcebe\\desktop\\bitirme\\bankauygulamasi\\bankauygulamasi\\personelpaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E4A80DC1-A403-43F2-80E7-4C3705E32AE7}|BankaUygulamasi\\BankaUygulamasi.csproj|solutionrelative:bankauygulamasi\\personelpaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A80DC1-A403-43F2-80E7-4C3705E32AE7}|BankaUygulamasi\\BankaUygulamasi.csproj|c:\\users\\fcebe\\desktop\\bitirme\\bankauygulamasi\\bankauygulamasi\\personelgirisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E4A80DC1-A403-43F2-80E7-4C3705E32AE7}|BankaUygulamasi\\BankaUygulamasi.csproj|solutionrelative:bankauygulamasi\\personelgirisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A80DC1-A403-43F2-80E7-4C3705E32AE7}|BankaUygulamasi\\BankaUygulamasi.csproj|c:\\users\\fcebe\\desktop\\bitirme\\bankauygulamasi\\bankauygulamasi\\yoneticigirisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E4A80DC1-A403-43F2-80E7-4C3705E32AE7}|BankaUygulamasi\\BankaUygulamasi.csproj|solutionrelative:bankauygulamasi\\yoneticigirisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A80DC1-A403-43F2-80E7-4C3705E32AE7}|BankaUygulamasi\\BankaUygulamasi.csproj|c:\\users\\fcebe\\desktop\\bitirme\\bankauygulamasi\\bankauygulamasi\\yoneticigirisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A80DC1-A403-43F2-80E7-4C3705E32AE7}|BankaUygulamasi\\BankaUygulamasi.csproj|solutionrelative:bankauygulamasi\\yoneticigirisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A80DC1-A403-43F2-80E7-4C3705E32AE7}|BankaUygulamasi\\BankaUygulamasi.csproj|c:\\users\\fcebe\\desktop\\bitirme\\bankauygulamasi\\bankauygulamasi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E4A80DC1-A403-43F2-80E7-4C3705E32AE7}|BankaUygulamasi\\BankaUygulamasi.csproj|solutionrelative:bankauygulamasi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A80DC1-A403-43F2-80E7-4C3705E32AE7}|BankaUygulamasi\\BankaUygulamasi.csproj|c:\\users\\fcebe\\desktop\\bitirme\\bankauygulamasi\\bankauygulamasi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A80DC1-A403-43F2-80E7-4C3705E32AE7}|BankaUygulamasi\\BankaUygulamasi.csproj|solutionrelative:bankauygulamasi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A80DC1-A403-43F2-80E7-4C3705E32AE7}|BankaUygulamasi\\BankaUygulamasi.csproj|c:\\users\\fcebe\\desktop\\bitirme\\bankauygulamasi\\bankauygulamasi\\personelgirisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A80DC1-A403-43F2-80E7-4C3705E32AE7}|BankaUygulamasi\\BankaUygulamasi.csproj|solutionrelative:bankauygulamasi\\personelgirisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonelPaneli.cs",
+              "DocumentMoniker": "C:\\Users\\fcebe\\Desktop\\Bitirme\\BankaUygulamasi\\BankaUygulamasi\\PersonelPaneli.cs",
+              "RelativeDocumentMoniker": "BankaUygulamasi\\PersonelPaneli.cs",
+              "ToolTip": "C:\\Users\\fcebe\\Desktop\\Bitirme\\BankaUygulamasi\\BankaUygulamasi\\PersonelPaneli.cs",
+              "RelativeToolTip": "BankaUygulamasi\\PersonelPaneli.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T21:41:54.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "YoneticiGirisi.cs",
+              "DocumentMoniker": "C:\\Users\\fcebe\\Desktop\\Bitirme\\BankaUygulamasi\\BankaUygulamasi\\YoneticiGirisi.cs",
+              "RelativeDocumentMoniker": "BankaUygulamasi\\YoneticiGirisi.cs",
+              "ToolTip": "C:\\Users\\fcebe\\Desktop\\Bitirme\\BankaUygulamasi\\BankaUygulamasi\\YoneticiGirisi.cs",
+              "RelativeToolTip": "BankaUygulamasi\\YoneticiGirisi.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAADwvy0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T20:01:31.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PersonelGirisi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\fcebe\\Desktop\\Bitirme\\BankaUygulamasi\\BankaUygulamasi\\PersonelGirisi.cs",
+              "RelativeDocumentMoniker": "BankaUygulamasi\\PersonelGirisi.cs",
+              "ToolTip": "C:\\Users\\fcebe\\Desktop\\Bitirme\\BankaUygulamasi\\BankaUygulamasi\\PersonelGirisi.cs [Design]",
+              "RelativeToolTip": "BankaUygulamasi\\PersonelGirisi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T19:13:26.707Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonelPaneli.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\fcebe\\Desktop\\Bitirme\\BankaUygulamasi\\BankaUygulamasi\\PersonelPaneli.cs",
+              "RelativeDocumentMoniker": "BankaUygulamasi\\PersonelPaneli.cs",
+              "ToolTip": "C:\\Users\\fcebe\\Desktop\\Bitirme\\BankaUygulamasi\\BankaUygulamasi\\PersonelPaneli.cs [Design]",
+              "RelativeToolTip": "BankaUygulamasi\\PersonelPaneli.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T20:36:47.587Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "YoneticiPaneli.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\fcebe\\Desktop\\Bitirme\\BankaUygulamasi\\BankaUygulamasi\\YoneticiPaneli.cs",
+              "RelativeDocumentMoniker": "BankaUygulamasi\\YoneticiPaneli.cs",
+              "ToolTip": "C:\\Users\\fcebe\\Desktop\\Bitirme\\BankaUygulamasi\\BankaUygulamasi\\YoneticiPaneli.cs [Design]",
+              "RelativeToolTip": "BankaUygulamasi\\YoneticiPaneli.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T19:52:44.936Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "YoneticiPaneli.cs",
+              "DocumentMoniker": "C:\\Users\\fcebe\\Desktop\\Bitirme\\BankaUygulamasi\\BankaUygulamasi\\YoneticiPaneli.cs",
+              "RelativeDocumentMoniker": "BankaUygulamasi\\YoneticiPaneli.cs",
+              "ToolTip": "C:\\Users\\fcebe\\Desktop\\Bitirme\\BankaUygulamasi\\BankaUygulamasi\\YoneticiPaneli.cs",
+              "RelativeToolTip": "BankaUygulamasi\\YoneticiPaneli.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T20:32:40.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\fcebe\\Desktop\\Bitirme\\BankaUygulamasi\\BankaUygulamasi\\Form1.cs",
+              "RelativeDocumentMoniker": "BankaUygulamasi\\Form1.cs",
+              "ToolTip": "C:\\Users\\fcebe\\Desktop\\Bitirme\\BankaUygulamasi\\BankaUygulamasi\\Form1.cs [Design]",
+              "RelativeToolTip": "BankaUygulamasi\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T18:22:56.142Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\fcebe\\Desktop\\Bitirme\\BankaUygulamasi\\BankaUygulamasi\\Form1.cs",
+              "RelativeDocumentMoniker": "BankaUygulamasi\\Form1.cs",
+              "ToolTip": "C:\\Users\\fcebe\\Desktop\\Bitirme\\BankaUygulamasi\\BankaUygulamasi\\Form1.cs",
+              "RelativeToolTip": "BankaUygulamasi\\Form1.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T19:55:28.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "YoneticiGirisi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\fcebe\\Desktop\\Bitirme\\BankaUygulamasi\\BankaUygulamasi\\YoneticiGirisi.cs",
+              "RelativeDocumentMoniker": "BankaUygulamasi\\YoneticiGirisi.cs",
+              "ToolTip": "C:\\Users\\fcebe\\Desktop\\Bitirme\\BankaUygulamasi\\BankaUygulamasi\\YoneticiGirisi.cs [Design]",
+              "RelativeToolTip": "BankaUygulamasi\\YoneticiGirisi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T18:54:38.127Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PersonelGirisi.cs",
+              "DocumentMoniker": "C:\\Users\\fcebe\\Desktop\\Bitirme\\BankaUygulamasi\\BankaUygulamasi\\PersonelGirisi.cs",
+              "RelativeDocumentMoniker": "BankaUygulamasi\\PersonelGirisi.cs",
+              "ToolTip": "C:\\Users\\fcebe\\Desktop\\Bitirme\\BankaUygulamasi\\BankaUygulamasi\\PersonelGirisi.cs",
+              "RelativeToolTip": "BankaUygulamasi\\PersonelGirisi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T20:00:56.057Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
